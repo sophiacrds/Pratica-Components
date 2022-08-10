@@ -6,7 +6,7 @@ import Header from "./components/Header.js";
 function App() {
 	return (
 		<>
-			<Header />
+			<Header food="saladas" />
 			<main>
 				<Cards />
 			</main>

@@ -15,12 +15,12 @@ export const FooterBox = styled.header`
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #f9f9f9;
+	background: ${(props) => props.color};
 `;
 
 export default function Footer() {
 	return (
-		<FooterBox>
+		<FooterBox color="#f9f9f9">
 			<p>© 2022 Sophia Leão. All Rights Reserved</p>
 		</FooterBox>
 	);

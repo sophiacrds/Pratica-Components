@@ -17,10 +17,10 @@ export const HeaderBox = styled.header`
 	align-items: center;
 `;
 
-export default function Header() {
+export default function Header({ food }) {
 	return (
 		<HeaderBox>
-			<h1>Você gosta de saladas?</h1>
+			<h1>Você gosta de {food}?</h1>
 		</HeaderBox>
 	);
 }
