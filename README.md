@@ -17,7 +17,7 @@ Pequeno exercício para fixação sobre os componentes em React. Também foram a
 ## PREVIEW
 
 <div align="center">
-  <img src="./src/assets/demo.png" width="500px">
+  <img src="./src/assets/demo.png">
 </div>
 <br>
 
