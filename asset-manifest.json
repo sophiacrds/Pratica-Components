@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/Pratica-Components/static/js/main.2cb462bd.js",
+    "main.js": "/Pratica-Components/static/js/main.11204443.js",
     "static/media/bacon.png": "/Pratica-Components/static/media/bacon.cd4becf2edbf5a2a4c0e.png",
     "static/media/chickenegg.png": "/Pratica-Components/static/media/chickenegg.c2bf0c7f1278854cd8c1.png",
     "static/media/salmon.png": "/Pratica-Components/static/media/salmon.4512bc439e69f3056c39.png",
     "static/media/chicken.png": "/Pratica-Components/static/media/chicken.29615096a075489b4c23.png",
     "static/media/oriental.png": "/Pratica-Components/static/media/oriental.a95c4ee5ebbf93c84f2f.png",
     "index.html": "/Pratica-Components/index.html",
-    "main.2cb462bd.js.map": "/Pratica-Components/static/js/main.2cb462bd.js.map"
+    "main.11204443.js.map": "/Pratica-Components/static/js/main.11204443.js.map"
   },
   "entrypoints": [
-    "static/js/main.2cb462bd.js"
+    "static/js/main.11204443.js"
   ]
 }
